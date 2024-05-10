@@ -1,0 +1,17 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+
+    /* Align everything to center */
+    text-align: center; 
+}
+
+h1 {
+    
+    /* Makes the header "UnFuzed" into red */
+    color: red; 
+}
+
+img {
+    width: 10%;
+}
