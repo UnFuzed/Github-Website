@@ -1,1 +1,1 @@
-console.log("test")
+alert("Lol your a nerd")
