@@ -1,1 +1,1 @@
-alert("Your weird")
+console.log("test")
